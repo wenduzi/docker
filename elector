@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/leader-elector:0.5
