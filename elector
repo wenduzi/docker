@@ -1,1 +1,1 @@
-FROM quay.io/dynatrace/dynatrace-oneagent-operator:snapshot
+FROM k8s.gcr.io/redis:v1
